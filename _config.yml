@@ -1,0 +1,20 @@
+remote_theme: TechHoldingLLC/labs-theme
+title: Tech Holding Labs
+description: >
+  Tech Holding Labs Projects
+
+labs:
+  social_links:
+    github:  TechHoldingLLC
+    facebook: techholding
+    linkedin: tech-holding
+
+featured:
+  - name: Memda
+    desc: Lambda Memory Check
+    repo_slug: memda
+    image: assets/img/memda.png
+  - name: Kappa
+    desc: Run a lambda locally without aws sam
+    repo_slug: kappa
+    image: assets/img/kappa.png
