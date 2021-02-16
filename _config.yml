@@ -3,12 +3,6 @@ title: Tech Holding Labs
 description: >
   Tech Holding Labs Projects
 
-labs:
-  social_links:
-    github:  TechHoldingLLC
-    facebook: techholding
-    linkedin: tech-holding
-
 featured:
   - name: Memda
     desc: Lambda Memory Check
